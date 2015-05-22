@@ -1,0 +1,49 @@
+-801>>-328
+>>
+leftPlatform -170 770 p1 310 40
+Platform -320 730 p2 40 190
+leftPlatform -320 530 p3 200 40
+botPlatform -320 490 p4 20 190
+leftPlatform -169 190 p5 340 40
+botPlatform -169 150 p6 20 1050
+rightPlatform 841 190 p7 310 40
+botPlatform 630 500 p8 20 400
+rightPlatform 1030 500 p9 230 40 
+Platform 841 730 p10 40 229
+rightPlatform 841 770 p11 310 40
+Platform -12 800 p12 40 240
+Platform -40 640 p13 40 110
+botPlatform 330 730 p14 20 145
+botPlatform 190 630 p15 20 150
+botPlatform 330 530 p16 20 110
+botPlatform 190 430 p17 20 110
+botPlatform 445 330 p18 20 220
+Platform 600 700 p19 40 150
+
+leftPlatform 450 331 p20 439 30
+rightPlatform 440 331 p21 439 30
+
+leftPlatform 190 250 p22 420 30
+rightPlatform 180 250 p23 420 30
+Platform 185 249 p24 20 30
+
+flag -172 8 p25 117 160
+flag -311 367 p25 67 91
+flag 826 15 p25 117 160
+flag 1035 391 p25 72 100
+
+torch -229 658 p26 120 120
+torch 8 560 p26 120 120
+torch 128 745 p26 120 120
+torch 265 585 p26 120 120
+torch 289 360 p26 120 120
+torch 626 628 p26 120 120
+torch 786 431 p26 120 120
+torch 987 650 p26 120 120
+
+endLvl 100 -1000 p1 4 9 
+endLvl -100 -1000 p1 4 11 
+
+enemy 550 640 p1 1 1 800 640 550 640
+enemy -10 730 p1 1 1 190 730 -10 730
+enemy 630 430 p1 1 1 795 430 630 430

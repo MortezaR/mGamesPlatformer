@@ -1,0 +1,73 @@
+-737>>-873
+>>
+leftPlatform -30 0 p1 960 30
+Platform 0 550 p1 10 180
+botPlatform 1150 200 p1 30 230
+botPlatform 220 700 p2 15 230
+botPlatform 30 900 p2 15 230
+botPlatform 210 420 p2 15 10
+botPlatform 100 340 p2 15 230
+botPlatform 250 230 p2 15 225
+botPlatform 455 530 p2 15 415
+botPlatform 875 350 p2 15 230
+botPlatform 870 750 p2 15 230
+Platform 1150 500 p2 30 650
+Platform 1600 920 p2 30 230
+Platform 1600 700 p2 10 230
+botPlatform 1810 330 p2 15 230
+botPlatform 1790 500 p3 30 35
+Platform 2220 420 p2 20 15
+Platform 2420 420 p2 20 15
+Platform 2620 420 p2 20 15
+Platform 2820 420 p2 20 15
+Platform 3020 420 p2 20 15
+botPlatform 3220 420 p2 15 230
+
+leftPlatform 210 371 p1 90 20
+rightPlatform 200 371 p1 90 20
+
+leftPlatform 460 231 p1 324 20
+rightPlatform 450 231 p1 324 20
+
+leftPlatform 880 351 p1 599 20
+rightPlatform 870 351 p1 599 20
+
+leftPlatform 1810 331 p1 199 20
+rightPlatform 1800 331 p1 199 20
+
+leftPlatform 1810 11 p1 169 20
+rightPlatform 1800 11 p1 169 20
+
+specialPlatform 450 -150 p1 380 30 200
+specialPlatform 3220 20 p1 400 30 250
+
+Lcollectable 240 830 p4 3 Go_to_the_other_room_while_making_not_sure_to_get_caught._Also_have_a_cover_story_just_incase_you_do_manage_to_get_caught. Change_the_party_location_to_your_room_and_pay_everyone_a_3_dollar_compensation_fee_for_doing_so. Just_go_to_bed._If_you_really_aren't_that_sleepy,_just_watch_a_movie_on_your_computer. You_are_on_the_MAP_Los_Angeles_Field_Trip_and_"lights_out_time"_had_just_passed._However,_you_hear_that_there_is_a_crazy_party_going_on_3_rooms_down_yours._You_are_not_sleepy_at_all_and_are_really_looking_for_anything_close_to_fun_on_the_field_trip.
+
+ 
+Lcollectable 1700 600 p4 3 Don't_do_the_assignment_and_realize_that_this_is_a_field_trip_and_that_you_should_be_having_fun. Publicly_urinate_on_your_assignment_to_show_your_distaste. Do_the_assignment_and_stop_complaining During_the_MAP_Los_Angeles_Field_Trip_you_are_told_that_you_need_to_fill_out_some_assignments_while_being_at_one_of_the_museums._You_think_this_is_a_terrible_idea_because_the_museum_is_boring_enough_as_it_is._What_do_you_do?
+
+Scollectable 1700 870 p4
+
+enemy 500 300 p1 1 1 500 300 800 300
+enemy 800 370 p1 1 1 800 370 500 370
+enemy 500 460 p1 1 1 500 460 800 460
+
+enemy 1150 425 p1 1 1 1150 425 1700 425
+enemy 1700 100 p1 1 1 1700 100 1700 425
+
+enemy 2280 370 p1 1 1 2280 200 2280 370
+enemy 2500 370 p1 1 1 2500 200 2500 370
+enemy 2690 370 p1 1 1 2690 200 2690 370
+enemy 2900 370 p1 1 1 2900 200 2900 370
+enemy 3100 370 p1 1 1 3100 200 3100 370
+
+collectable 800 300 p2 100
+collectable 500 385 p2 300
+collectable 800 470 p2 300
+collectable 1725 425 p2 300
+
+doorOne 460 -150 p1
+doorTwo 3230 40 p1
+clouds -530 -690 p1
+
+endLvl 3300 330 p1 4 9 

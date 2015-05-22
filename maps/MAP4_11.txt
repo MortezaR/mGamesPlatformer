@@ -1,0 +1,5 @@
+0>>0
+>>
+Platform 30 650 p1 30 610
+leftPlatform 0 0 p1 960 30
+rightPlatform 610 0 p1 960 30

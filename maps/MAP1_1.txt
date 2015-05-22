@@ -1,0 +1,24 @@
+-427>>-62
+>>
+Platform 30 650 p1 30 2000
+Platform 1000 400 p1 30 200
+
+botPlatform 1300 250 p1 15 700
+botPlatform 1000 550 p1 15 200
+
+leftPlatform 0 0 p1 960 30
+rightPlatform 2000 2 p1 960 30
+
+specialPlatform 1700 0 p1 250 30 50
+
+Lcollectable 1700 600 p4 1 This_answer_is_the_right_one_and_you_should_click_it This_answer_will_kill_you_because_it_is_so_bad This_answer_is_right_but_not_as_right_as_the_other_one_and_will_give_you_less_points Click_on_whatever_answer_seems_the_most_logical_to_you.
+
+Scollectable 1900 600 p4
+
+enemy 1000 320 p1 1 1 1000 320 1000 320
+
+collectable 1150 500 p2 10
+
+gates 1700 0 p1
+
+endLvl 1850 170 p1 2 1 

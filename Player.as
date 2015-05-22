@@ -32,6 +32,9 @@
 		function offPlatform(){
 			onPlatform = false;
 		}
+		function getPlatform(): Boolean{
+			return onPlatform;
+		}
 		function hitHead(){
 			headDaze = true;
 			yVel = 0;

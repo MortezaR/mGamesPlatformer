@@ -1,0 +1,18 @@
+-427>>-62
+>>
+Platform 30 650 p1 30 2000
+Platform 1000 400 p1 30 200
+
+botPlatform 1300 250 p1 15 700
+botPlatform 1000 550 p1 15 200
+
+leftPlatform 0 0 p1 960 30
+rightPlatform 2000 2 p1 960 30
+
+specialPlatform 1700 0 p1 250 30 50
+
+enemy 1000 320 p1 1 1 1000 320 1000 320
+
+gates 1700 0 p1
+
+endLvl 1850 170 p1 4 10 

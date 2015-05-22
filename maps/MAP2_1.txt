@@ -1,0 +1,69 @@
+-1035>>-94
+>>
+Platform -400 500 p1 20 20
+Platform -300 680 p1 20 20
+Platform -240 440 p1 20 20
+Platform -170 850 p1 20 20
+Platform -170 320 p1 30 30
+Platform 950 650 p1 30 30
+Platform 1300 650 p1 30 30
+Platform 1650 650 p1 30 100
+Platform 1125 850 p1 30 30
+Platform 1475 850 p1 30 30
+
+botPlatform 150 850 p1 15 200
+botPlatform 650 850 p1 15 200
+botPlatform 0 300 p1 15 480
+botPlatform 120 670 p1 15 350
+botPlatform 250 425 p1 15 1500
+
+botPlatform 700 270 p1 15 80
+botPlatform 1000 270 p1 15 80
+botPlatform 1300 270 p1 15 180
+
+
+leftPlatform -160 350 p1 250 20
+rightPlatform -170 350 p1 250 20
+
+leftPlatform 460 301 p1 395 20
+rightPlatform 450 301 p1 395 20
+
+leftPlatform 735 -70 p1 350 20
+rightPlatform 725 -70 p1 350 20
+
+leftPlatform 1035 -70 p1 350 20
+rightPlatform 1025 -70 p1 350 20
+
+leftPlatform 1335 -70 p1 350 20
+rightPlatform 1325 -70 p1 350 20
+
+rightPlatform 1750 0 p1 1000 30
+
+specialPlatform 250 426 p1 250 30 150
+
+Lcollectable 1675 600 p4 3 Make_yourself_as_hidden_as_possible_for_the_rest_of_the_day. Ask_someone_for_help,_and_explain_your_prediciment_to_them MAN_UP! You_are_at_the_MAP_10_ropes_course!_A_lot_of_people_are_embarking_on_a_rope_challenge_that_seems_way_too_scary_for_you._You_feel_scared_and_want_to_stop_doing_this_ropes_course._How_can_you_ideally_handle_this_situation.
+Lcollectable 1375 200 p4 2 You_call_the_people_out_and_try_to_make_them_change_through_peer_presure You_stop_trying_hard_and_try_to_disregard_the_outcome_because_it_really_amounts_to_little_in_the_end. You_try_to_compensate_for_there_lack_of_caring_and_ability_with_your_own. Whilst_at_the_MAP_10_ropes_course,_the_group_starts_to_do_a_group_bonding_excersise_in_which_you_are_very_engaged_in._However_when_a_game_comes_around_that_involves_using_the_whole_team,_you_start_to_realize_your_group_has_quite_of_bit_of_incompetent_people._What_do_you_do?
+Scollectable 1700 375 p4
+
+enemy 550 350 p1 1 1 850 350 550 350
+enemy 850 350 p1 1 1 1150 350 850 350
+enemy 1150 350 p1 1 1 1450 350 1150 350
+
+enemy 875 725 p1 1 1 875 575 875 725
+enemy 1175 725 p1 1 1 1175 575 1175 725
+enemy 1525 725 p1 1 1 1525 575 1525 725
+
+enemy 475 800 p1 1 1 475 700 475 800
+enemy -100 750 p1 1 1 -350 400 -100 750
+
+collectable 850 350 p2 100
+collectable 1150 350 p2 100
+collectable 1450 350 p2 100
+
+collectable 940 600 p2 100
+collectable 1110 800 p2 100
+collectable 1290 600 p2 100
+collectable 1460 800 p2 100
+
+gates 250 450 p1
+endLvl 330 600 p1 3 1 

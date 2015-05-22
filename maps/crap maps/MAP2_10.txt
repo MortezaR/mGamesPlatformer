@@ -1,0 +1,34 @@
+2000>>2000
+>>
+leftPlatform -170 770 p1 310 40
+Platform -320 730 p2 40 190
+leftPlatform -320 530 p3 200 40
+botPlatform -320 490 p4 20 190
+leftPlatform -169 190 p5 340 40
+botPlatform -169 150 p6 20 1050
+rightPlatform 841 190 p7 310 40
+botPlatform 630 500 p8 20 400
+rightPlatform 1030 500 p9 230 40 
+Platform 841 730 p10 40 229
+rightPlatform 841 770 p11 310 40
+Platform -12 800 p12 40 240
+Platform -40 640 p13 40 110
+botPlatform 330 730 p14 20 150
+botPlatform 190 630 p15 20 150
+botPlatform 330 530 p16 20 110
+botPlatform 190 430 p17 20 110
+botPlatform 445 330 p18 20 270
+Platform 600 700 p19 40 150
+
+leftPlatform 450 331 p20 400 30
+rightPlatform 440 331 p21 400 30
+
+leftPlatform 190 250 p22 420 30
+rightPlatform 180 250 p23 420 30
+Platform 180 249 p24 40 40
+
+
+
+enemy 500 690 p1 1 1 900 690 500 690
+>>"Hit the switch in the middle of the stage in order to pass to the next level""Okay will do""Good"
+>>if mainGate true -> LOAD 1 2>>

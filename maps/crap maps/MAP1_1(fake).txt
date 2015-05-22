@@ -1,0 +1,18 @@
+2000>>2000
+>>
+Scollectable 450 450 p4
+Lcollectable 50 450 p4 2 right_af_dfsd kinda wrong question
+Platform 50 500 p1 5 200
+botPlatform 40 500 p1 5 500
+botPlatform 200 400 p1 5 200
+Platform 500 700 p1 5 400
+enemy 500 690 p1 1 1 900 690 500 690
+Platform 600 600 p1 10 20
+Platform 600 400 p1 1 50
+leftPlatform 600 401 p1 400 1
+specialPlatform 500 400 p1 400 3 40
+collectable 600 400 p1 10000000
+collectable 600 600 p2
+endLvl 1000 700 p1 1 5 
+>>"Hit the switch in the middle of the stage in order to pass to the next level""Okay will do""Good"
+>>if mainGate true -> LOAD 1 2>>

@@ -1,0 +1,29 @@
+2000>>2000
+>>botPlatform 300 300 p1 5 100
+
+enemy 300 400 p1 1 1 300 400 480 600 
+enemy 480 700 p1 1 1 480 700 300 500 
+enemy 450 450 p1 1 1 450 450 700 700 
+ 
+botPlatform 250 400 p1 5 100
+botPlatform 250 600 p1 5 150
+Platform 500 700 p1 5 400
+
+leftPlatform 400 100 p1 900 5
+rightPlatform 390 100 p1 900 5
+
+leftPlatform 600 -100 p1 800 5
+rightPlatform 590 -100 p1 800 5
+
+Platform 450 200 p1 5 100
+
+Platform 420 320 p1 5 100
+
+Platform 455 390 p1 5 100
+
+
+collectable 600 400 p1
+collectable 600 600 p2
+endLvl 1000 700 gate1-2 1 10 
+>>"Hit the switch in the middle of the stage in order to pass to the next level""Okay will do""Good"
+>>if mainGate true -> LOAD 1 2>>
